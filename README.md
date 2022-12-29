@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Gigga-Byte!
-- 👀 I’m interested in games and living.
-- 🌱 I’m currently learning game dev and GDScript.
-- That's about it for now.
+Yo I'm @Gigga_Byte.
+I'm currently struggling to learn code.
+I'm learning GDScript to be specific. 👍
+
+That's pretty much all I have to say.
