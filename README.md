@@ -1,5 +1,1 @@
-Yo I'm Gigga-Byte and I'm currently struggling to learn code.
-
-I'm learning GDScript to be specific. 👍
-
-That's pretty much all I have to say.
+i have no idea what im doing half the time but im trying :D
